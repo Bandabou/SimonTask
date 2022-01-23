@@ -9,7 +9,7 @@ import time
 class simon_task_gui():
 	def __init__(self, root):
 		self.__window = root
-		self.__window.title('Simon Task (0HV120 Assignment 3)')
+		self.__window.title('Simon Task (GUI)')
 		self.__window.maxsize(1200,800)     
 		
 		 
